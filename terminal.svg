@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 340" width="100%" height="340">
+  <defs>
+    <linearGradient id="term-header" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="term-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .cursor { animation: blink 1s infinite steps(1); }
+    @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+    .t-cyan { fill: #38bdf8; font-weight: 700; }
+    .t-purple { fill: #c084fc; font-weight: 700; }
+    .t-green { fill: #34d399; font-weight: 600; }
+    .t-yellow { fill: #fbbf24; font-weight: 600; }
+    .t-pink { fill: #f472b6; font-weight: 600; }
+    .t-white { fill: #f1f5f9; }
+    .t-gray { fill: #64748b; }
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, Menlo, Monaco, monospace; font-size: 13px; }
+  </style>
+
+  <!-- Terminal Window Outer Frame -->
+  <rect width="918" height="338" x="1" y="1" rx="14" fill="#070b14" stroke="url(#term-border)" stroke-width="1.8"/>
+
+  <!-- Window Header Bar -->
+  <path d="M 1 15 C 1 7.2 7.2 1 15 1 L 905 1 C 912.8 1 919 7.2 919 15 L 919 40 L 1 40 Z" fill="url(#term-header)" stroke="#334155" stroke-width="0.8"/>
+
+  <!-- Mac Buttons -->
+  <circle cx="24" cy="20" r="6" fill="#ef4444" />
+  <circle cx="44" cy="20" r="6" fill="#f59e0b" />
+  <circle cx="64" cy="20" r="6" fill="#10b981" />
+
+  <!-- Terminal Title -->
+  <text x="460" y="24" text-anchor="middle" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="0.5">
+    hao@argon-runner: ~/profile-system --environment=production
+  </text>
+
+  <!-- Command Line Execution -->
+  <g transform="translate(30, 70)" class="mono">
+    <!-- Prompt Line -->
+    <text x="0" y="0">
+      <tspan class="t-green">hao@cloud-node</tspan><tspan class="t-gray">:</tspan><tspan class="t-cyan">~/developer-portfolio</tspan><tspan class="t-pink">$</tspan>
+      <tspan class="t-white"> neofetch --profile --deep-inspect</tspan>
+    </text>
+
+    <!-- Terminal Output -->
+    <g transform="translate(0, 26)">
+      <text x="0" y="0"><tspan class="t-cyan">▸ Engineer Name   :</tspan> <tspan class="t-white">Nguyen Quoc Hao (NePreby)</tspan></text>
+      <text x="0" y="24"><tspan class="t-cyan">▸ Professional Role:</tspan> <tspan class="t-purple">Full-Stack Software Engineer &amp; AI Systems Architect</tspan></text>
+      <text x="0" y="48"><tspan class="t-cyan">▸ Core Languages   :</tspan> <tspan class="t-yellow">Python 3.12</tspan><tspan class="t-gray">, </tspan><tspan class="t-yellow">TypeScript</tspan><tspan class="t-gray">, </tspan><tspan class="t-yellow">Go (Golang)</tspan><tspan class="t-gray">, </tspan><tspan class="t-yellow">Rust</tspan><tspan class="t-gray">, </tspan><tspan class="t-yellow">SQL</tspan></text>
+      <text x="0" y="72"><tspan class="t-cyan">▸ Backend Stack    :</tspan> <tspan class="t-green">FastAPI, Node.js, Express, React, Next.js, TailwindCSS, Django</tspan></text>
+      <text x="0" y="96"><tspan class="t-cyan">▸ Automation &amp; AI  :</tspan> <tspan class="t-pink">Playwright Headless, Multi-Agent Tool Calling, LangChain, AST Refactoring</tspan></text>
+      <text x="0" y="120"><tspan class="t-cyan">▸ Cloud &amp; Protocol :</tspan> <tspan class="t-white">Docker, Kubernetes, PostgreSQL, Redis, libp2p, GitHub Actions CI/CD</tspan></text>
+      <text x="0" y="144"><tspan class="t-cyan">▸ Open-Source Track:</tspan> <tspan class="t-green">40+ Production Pull Requests Submitted &amp; Verified Across Global Repos</tspan></text>
+      <text x="0" y="168"><tspan class="t-cyan">▸ Availability     :</tspan> <tspan class="t-purple">Open for High-Impact Software Engineering Roles &amp; Remote Contracts</tspan></text>
+      <text x="0" y="196">
+        <tspan class="t-green">hao@cloud-node</tspan><tspan class="t-gray">:</tspan><tspan class="t-cyan">~/developer-portfolio</tspan><tspan class="t-pink">$</tspan>
+        <tspan class="t-white"> ping -c 1 global-collaborations</tspan>
+        <tspan class="t-green"> [ONLINE 24/7]</tspan>
+        <tspan class="cursor t-cyan"> ▌</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
