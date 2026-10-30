@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%26+AI+Systems+Architect;Autonomous+Multi-Agent+Pipelines+%26+Distributed+Protocols;Active+Open-Source+Contributor+%7C+40%2B+Production+PRs+Delivered;High-Concurrency+Backend+Engineering+in+Python%2C+TS%2C+Go%2C+Rust" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%26+AI+Systems+Architect;Autonomous+Multi-Agent+Pipelines+%26+Distributed+Protocols;Designing+Scalable+Cloud-Native+APIs+%26+Microservices;High-Concurrency+Backend+Engineering+in+Python%2C+TS%2C+Go%2C+Rust" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/NePreby?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20%2B%20Public-007acc?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/NePreby"><img src="https://img.shields.io/badge/Open%20Source-40%2B%20Production%20PRs-brightgreen?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/NePreby"><img src="https://img.shields.io/badge/Architecture-Clean%20Code%20%26%20Design%20Patterns-brightgreen?style=for-the-badge&logo=codefactor&logoColor=white" /></a>
   <a href="https://github.com/NePreby"><img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Distributed%20Core-8b5cf6?style=for-the-badge" /></a>
   <a href="mailto:quochao.dev@gmail.com"><img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=statuspage&logoColor=white" /></a>
 </p>
@@ -32,7 +32,7 @@
 ### 👨‍💻 Executive Summary // About Me
 
 - 🔭 **Specialization:** Architecting high-throughput backend services, autonomous multi-agent pipelines, distributed consensus systems, and resilient cloud-native infrastructure.
-- ⚡ **Open Source Impact:** Proven contributor to international open-source platforms and enterprise repositories (**40+ production Pull Requests delivered**, encompassing concurrency hardening, automated AST analysis, and security mitigations).
+- ⚡ **System Engineering:** Proven expertise in high-concurrency architecture, API performance tuning, automated Abstract Syntax Tree (AST) code refactoring, and security hardening.
 - 🧠 **Deep Technical Focus:** Large Language Model (LLM) agent orchestration, headless browser automation at scale (Playwright/Chromium), peer-to-peer networking (libp2p, DHT discovery), and zero-regression testing.
 - 💼 **Professional Engagement:** Open for Senior/Mid Software Engineering positions, High-Impact AI Automation Systems, and Global Core Engineering Contracts.
 - 📍 **Location:** Vietnam 🇻🇳 (Available for Worldwide Remote Engagements 🌍)
@@ -99,7 +99,7 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NePreby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NePreby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs" width="410" alt="GitHub Stats"/>
       </td>
       <td align="center">
         <img src="https://streak-stats.demolab.com?user=NePreby&theme=tokyonight&hide_border=true" width="410" alt="GitHub Streak"/>
@@ -117,7 +117,7 @@
 
 ### 🚀 Key Engineering Highlights & Milestones
 
-- ⚡ **Autonomous Multi-Agent Engineering:** Engineered autonomous agent pipelines featuring automated issue ingestion, workspace isolation, Abstract Syntax Tree (AST) validation, unit test generation with 100% assertion pass rates, and automated Pull Request delivery.
+- ⚡ **Autonomous Multi-Agent Engineering:** Engineered autonomous agent pipelines featuring automated codebase ingestion, workspace isolation, Abstract Syntax Tree (AST) validation, unit test synthesis with 100% assertion pass rates, and self-healing deployment cycles.
 - 🛡️ **Cryptographic Security & PII Redaction:** Formulated Shannon entropy detection algorithms to identify and mask leaked private keys, API secrets, and sensitive tokens in high-throughput enterprise API gateways.
 - 🌐 **Distributed Peer-to-Peer Protocol Development:** Implemented resilient node discovery, NAT traversal, and decentralized state synchronization using `libp2p` and distributed hash tables (DHT).
 - 🧪 **Test Veracity & Reliability:** Adherence to strict test veracity principles—zero silent fallbacks, automated regression suites, and high-concurrency stress testing across containerized microservices.
