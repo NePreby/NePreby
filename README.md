@@ -1,17 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nguy%E1%BB%85n%20Qu%E1%BB%91c%20H%E1%BA%A3o&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Systems%20%26%20Distributed%20Architectures&descSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/NePreby/NePreby/main/banner.svg" alt="Nguyen Quoc Hao Banner" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Systems+Architect;Autonomous+AI+Agents+%26+Automation+Specialist;Active+Open+Source+Contributor+%26+Bounty+Hunter;Building+Resilient+Backend+%26+Cloud+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Systems+Architect;Autonomous+AI+Agents+%26+Automation+Specialist;Active+Open+Source+Contributor+%26+Bounty+Hunter;Building+Resilient+Backend+%26+Cloud+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/NePreby?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public-007acc?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/NePreby"><img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-brightgreen?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/NePreby"><img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Backend-blueviolet?style=for-the-badge" /></a>
+  <a href="https://github.com/NePreby?tab=repositories"><img src="https://img.shields.io/badge/Repositories-20%2B%20Public-007acc?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NePreby"><img src="https://img.shields.io/badge/Open%20Source-39%2B%20PRs%20Submitted-brightgreen?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/NePreby"><img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Backend-8b5cf6?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -74,16 +76,16 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NePreby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="405" alt="GitHub Stats"/>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NePreby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats"/>
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NePreby&theme=tokyonight&hide_border=true" width="405" alt="GitHub Streak"/>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=NePreby&theme=tokyonight&hide_border=true" width="410" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NePreby&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="405" alt="Top Languages"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NePreby&theme=tokyonight" width="410" alt="Languages Distribution"/>
       </td>
     </tr>
   </table>
@@ -106,7 +108,3 @@
   <a href="mailto:quochao.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/nepreby"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
